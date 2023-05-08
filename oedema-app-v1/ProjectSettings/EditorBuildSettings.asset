@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/App Pages/Exercise Page.unity
     guid: 5ff91c6b45938b64eaf045d6f2761ade
   - enabled: 1
+    path: Assets/Scenes/App Pages/MDL Page.unity
+    guid: 1bc435af8e0554449913f94faaf77edf
+  - enabled: 1
     path: Assets/Scenes/App Pages/Mental Health.unity
     guid: 6ddd1124e302bfc4a9616b2f480f4508
   - enabled: 1
@@ -23,7 +26,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/App Pages/Quality of Life.unity
     guid: 145fd27d4fdaf234288461f300b65636
-  - enabled: 1
-    path: Assets/Scenes/App Pages/MDL Page.unity
-    guid: 1bc435af8e0554449913f94faaf77edf
   m_configObjects: {}
