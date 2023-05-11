@@ -7,6 +7,6 @@ public class OpenLymphink2 : MonoBehaviour
 
     public void OpenChannel()
     {
-        Application.OpenURL("https://www.youtube.com/watch?v=UebHyphaVTM");
+        Application.OpenURL("https://www.youtube.com/watch?v=UebHyphaVTM")
     }
 }
