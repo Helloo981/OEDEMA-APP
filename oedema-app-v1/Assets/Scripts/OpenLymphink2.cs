@@ -5,8 +5,7 @@ using UnityEngine;
 public class OpenLymphink2 : MonoBehaviour
 {
 
-    public void OpenChannel()
-    {
+    public void OpenChannel() { 
         Application.OpenURL("https://www.youtube.com/watch?v=UebHyphaVTM");
     }
 }
